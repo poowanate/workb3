@@ -722,7 +722,7 @@ div#sacircle1,div#lightcircle {
 .jarallax {
     position: relative;
     background-size: cover;
-   
+    background-repeat: no-repeat;
     background-position: 50% 50%;
 }
 /*-- //skills --*/
