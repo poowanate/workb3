@@ -511,7 +511,7 @@ i.fa.fa-thumbs-up,i.fa.fa-thumbs-up,i.fa.fa-university,i.fa.fa-suitcase,i.fa.fa-
 /*-- team --*/
 .team{
 	padding:4em 0;
-    background: #FFFFFF;
+    background-color:#45393b;
 }
 .team-grids{
 	margin:4em 0 0 0;
@@ -625,7 +625,7 @@ i.fa.fa-thumbs-up,i.fa.fa-thumbs-up,i.fa.fa-university,i.fa.fa-suitcase,i.fa.fa-
 /*-- portfolio --*/
 .portfolio{
 	padding:4em 0;
-	background: #f6f6f6;
+	background-color:#45393b;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
 	color: #ffffff;
@@ -637,8 +637,8 @@ i.fa.fa-thumbs-up,i.fa.fa-thumbs-up,i.fa.fa-university,i.fa.fa-suitcase,i.fa.fa-
     margin-right: 3px;
     border-radius: 0;
     font-size:1em;
-    color: #333333;
-	border: solid 2px #333333;
+    color: #ffffff;
+	border: solid 2px #ea7d7d;
 }
 .nav-tabs > li > a:focus{
 	background:transparent;
@@ -672,17 +672,17 @@ i.fa.fa-thumbs-up,i.fa.fa-thumbs-up,i.fa.fa-university,i.fa.fa-suitcase,i.fa.fa-
 /*-- skills --*/
 .skills{
     padding: 4em 0;
-    background: url(../images/4.jpg) no-repeat 0px -429px;
+    
     background-size: cover;
 }
 .skills-about-info h3{
     color: #ffffff;
 }
 .skills-about-info h3:after{
-    background: #ffffff;
+   background-color:#45393b;
 }
 .skills-about-info p{
-    color: #ffffff;
+    background-color:#45393b;
 }
 .dark-area {
     clear: both;
@@ -722,8 +722,8 @@ div#sacircle1,div#lightcircle {
 .jarallax {
     position: relative;
     background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
+    background-color:#45393b;
+    background-position: 50% 50%; 
 }
 /*-- //skills --*/
 /*-- contact --*/
@@ -1211,7 +1211,7 @@ i.fa.fa-map-marker,i.fa.fa-envelope-o,i.fa.fa-mobile{
 		width: 50%;
 	}
 	.skills {
-		background: url(../images/4.jpg) no-repeat 0px 0px;
+		background-color:#45393b;
 	}
 	.nav > li > a {
 		padding: 10px 9px;
